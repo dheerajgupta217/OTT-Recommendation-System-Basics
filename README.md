@@ -1,6 +1,4 @@
-# OTT-Recommendation-System (Regression + Collaborative Filtering)
-
-# 🎬 OTT Recommendation System (Regression + Collaborative Filtering)
+# OTT Recommendation System (Regression + Collaborative Filtering)
 
 ## Overview
 
